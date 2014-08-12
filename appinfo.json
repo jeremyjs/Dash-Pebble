@@ -1,0 +1,32 @@
+{
+    "appKeys": {
+        "block": 0,
+        "book": 5,
+        "get_block": 1,
+        "title0": 2,
+        "title1": 3,
+        "title2": 4
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "jjman505@gmail.com",
+    "longName": "Dash - app",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Dash.png",
+                "name": "DASH_LOGO",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Dash - app",
+    "uuid": "5715723d-197c-4ddf-9d77-a90091579af3",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
